@@ -1,0 +1,34 @@
+.menu ul{
+    list-style: none;
+}
+
+.menu li{
+    display: inline-block;
+    border: orange 2px solid;
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(219, 181, 123);
+    margin-left: 25px;
+    border-radius: 8px;
+  
+}
+.menu li:hover{
+    background-color: rgba(238, 228, 213, 0.555);
+    font-size: 20px;
+}
+
+.menu a{
+    text-decoration: none;
+font-family: 'Koh Santepheap', cursive;  
+    color: black;
+    padding:  50px;
+   
+
+}
+.alt-arka-plan{
+    width: 100%;
+    height: 300px;
+    background-image: url(../display\ kendi\ calismam/resim.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
